@@ -11,7 +11,7 @@
     "watch": "yarn lerna run watch --parallel --stream"
   },
   "devDependencies": {
-    "chokidar-cli": "1.2.0",
+    "chokidar-cli": "2.1.0",
     "conventional-changelog-cli": "1.2.0",
     "conventional-github-releaser": "1.1.3",
     "cpy": "5.0.0",
