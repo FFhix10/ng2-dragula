@@ -44,7 +44,7 @@
     "rxjs": ">=6.0.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.6.8",
+    "@angular-devkit/build-angular": "~0.800.0",
     "@angular/cli": "6.0.8",
     "@angular/compiler": "^6.0.4",
     "@angular/compiler-cli": "^6.0.4",
@@ -68,7 +68,7 @@
     "karma-jasmine": "~1.1.1",
     "karma-jasmine-html-reporter": "^1.2.0",
     "karma-sauce-launcher": "1.1.0",
-    "ng-packagr": "^4.0.0",
+    "ng-packagr": "^5.0.0",
     "rimraf": "*",
     "rxjs": "^6.2.0",
     "testdouble": "^3.8.1",
